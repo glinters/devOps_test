@@ -26,4 +26,9 @@ public class UserController {
         return userServiceImpl.update(user);
     }
 
+    @GetMapping("/login")
+    public User login(String username, String password) {
+        return userServiceImpl.login(username, password);
+    }
+
 }

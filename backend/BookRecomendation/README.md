@@ -34,4 +34,5 @@ public class User {
 #### Metodes
 ##### ``/register?username={username}&password={password}`` reģistrē jaunu lietotāju
 ##### `` POST /update `` atjauno lietotāja informāciju. Saņem POST parametru User
+##### ``/login?username={username}&password={password}`` tiek ielogots lietotājs
 

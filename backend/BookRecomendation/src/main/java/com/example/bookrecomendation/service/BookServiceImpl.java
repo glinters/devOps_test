@@ -76,7 +76,8 @@ public class BookServiceImpl implements BookService {
             return books.stream().filter(book ->
                     user.authors.isEmpty() && user.genres.isEmpty() || user.authors.stream().anyMatch(author ->
                             book.author.equals(author)) || user.genres.stream().anyMatch(genre -> book.genre.equals(genre))).limit(20).collect(Collectors.toList());
+        }else{
+            return books.stream().limit(20).collect(Collectors.toList());
         }
-        return Collections.emptyList();
     }
 }
