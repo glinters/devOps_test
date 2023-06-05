@@ -36,3 +36,6 @@ public class User {
 ##### `` POST /update `` atjauno lietotāja informāciju. Saņem POST parametru User
 ##### ``/login?username={username}&password={password}`` tiek ielogots lietotājs
 
+## Starting
+With maven and java 17 run ``mvn spring-boot:run``
+
