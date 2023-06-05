@@ -1,0 +1,308 @@
+[
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "summary": "To Kill a Mockingbird is a classic novel set in the 1930s, focusing on racial injustice in a small Southern town. The story is narrated by Scout Finch, a young girl who witnesses her father, Atticus Finch, defending a black man accused of rape. The novel explores themes of prejudice, morality, and the loss of innocence."
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "summary": "1984 is a dystopian novel set in a totalitarian society ruled by the Party led by Big Brother. The story follows Winston Smith, a low-ranking member of the Party, as he rebels against the oppressive regime. It explores themes of government surveillance, manipulation, and the power of language."
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "Pride and Prejudice is a classic romance novel set in 19th-century England. The story revolves around the Bennet sisters, particularly Elizabeth Bennet, as they navigate societal expectations, marriage prospects, and the complexities of love. It explores themes of class, marriage, and personal growth."
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "summary": "The Great Gatsby is a classic novel set in the Roaring Twenties, capturing the decadence and disillusionment of the era. The story follows Jay Gatsby, a mysterious millionaire, as he tries to win back the love of his life, Daisy Buchanan. It explores themes of wealth, the American Dream, and the corrupting influence of money."
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age",
+    "summary": "The Catcher in the Rye is a coming-of-age novel narrated by Holden Caulfield, a disenchanted teenager navigating the challenges of adolescence and society. The story explores themes of identity, alienation, and the loss of innocence, resonating with readers of all generations."
+  },
+  {
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "summary": "Moby-Dick is an epic adventure novel that tells the story of Captain Ahab's obsessive quest for revenge against the great white whale. Set aboard the whaling ship Pequod, the novel explores themes of obsession, fate, and the struggle between man and nature."
+  },
+  {
+    "name": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist Fiction",
+    "summary": "To the Lighthouse is a modernist novel that explores the inner lives of its characters and the passage of time. Set in a summer house on the Isle of Skye, the story shifts between the perspectives of the Ramsay family and their guests. It delves into themes of memory, perception, and the complex nature of human relationships."
+  },
+  {
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "The Lord of the Rings is a fantasy epic that follows the journey of Frodo Baggins as he carries the One Ring to Mount Doom to destroy it. Set in the fictional world of Middle-earth, the story encompasses themes of heroism, friendship, and the struggle between good and evil."
+  },
+  {
+    "name": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "genre": "Gothic Fiction",
+    "summary": "Jane Eyre is a gothic novel that tells the story of the eponymous protagonist's journey from an orphaned child to a young woman. Set in the 19th century, the novel explores themes of love, independence, and the search for identity."
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "The Hobbit is a fantasy adventure novel that follows the hobbit Bilbo Baggins as he joins a company of dwarves on a quest to reclaim their homeland from the fearsome dragon Smaug. It serves as a prelude to The Lord of the Rings and explores themes of bravery, heroism, and the power of the ordinary."
+  },
+  {
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian Fiction",
+    "summary": "Brave New World is a dystopian novel set in a futuristic society where citizens are genetically engineered and conditioned to maintain stability and happiness. The story follows Bernard Marx as he rebels against the strict social order. It examines themes of conformity, individuality, and the cost of a utopian society."
+  },
+  {
+    "name": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "summary": "The Odyssey is an ancient Greek epic poem attributed to Homer. It tells the story of Odysseus' ten-year journey home to Ithaca after the Trojan War. Along the way, he faces numerous challenges and encounters mythical creatures. The poem explores themes of heroism, fate, and the power of storytelling."
+  },
+  {
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian Fiction",
+    "summary": "Fahrenheit 451 is a dystopian novel set in a future society where books are banned, and intellectualism is discouraged. The story follows Guy Montag, a fireman whose job is to burn books. It explores themes of censorship, knowledge, and the importance of critical thinking."
+  },
+  {
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "summary": "The Alchemist is a philosophical novel that follows the journey of a young shepherd named Santiago as he seeks his Personal Legend. Set in various locations, including Spain and Egypt, the story explores themes of destiny, self-discovery, and the pursuit of one's dreams."
+  },
+  {
+    "name": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic Fiction",
+    "summary": "The Picture of Dorian Gray is a gothic novel that tells the story of a young man named Dorian Gray, who remains eternally young and beautiful while a portrait of him ages and reflects his sins. Set in Victorian England, the novel explores themes of morality, vanity, and the consequences of one's actions."
+  },
+  {
+    "name": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "genre": "Magical Realism",
+    "summary": "One Hundred Years of Solitude is a landmark novel in the genre of magical realism. It tells the story of the Buendia family and their experiences in the fictional town of Macondo. The novel explores themes of time, memory, and the cyclical nature of human existence."
+  },
+  {
+    "name": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "summary": "The Brothers Karamazov is a philosophical novel that explores themes of morality, faith, and the nature of existence. Set in 19th-century Russia, the story follows the three Karamazov brothers as they navigate their complex relationships, their father's murder, and the search for truth and redemption."
+  },
+  {
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological Fiction",
+    "summary": "Crime and Punishment is a psychological novel that delves into the mind of its protagonist, Rodion Raskolnikov, a young ex-student. Set in St. Petersburg, the story explores themes of guilt, morality, and the consequences of one's actions."
+  },
+  {
+    "name": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Children's Literature",
+    "summary": "The Little Prince is a beloved children's novella that follows a young prince as he travels from planet to planet, encountering various inhabitants and learning important life lessons along the way. The story explores themes of innocence, friendship, and the value of imagination."
+  },
+  {
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "summary": "Frankenstein is a gothic novel that tells the story of Victor Frankenstein, a young scientist who creates a grotesque creature in his laboratory. The novel raises questions about the ethics of scientific experimentation, the nature of humanity, and the consequences of playing god."
+  },
+  {
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "summary": "The Count of Monte Cristo is an adventure novel that follows the journey of Edmond Dantès, a young sailor who is wrongfully imprisoned and seeks revenge against those who betrayed him. Set in 19th-century France, the story explores themes of justice, redemption, and the power of knowledge."
+  },
+  {
+    "name": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Historical Fiction",
+    "summary": "The Kite Runner is a historical fiction novel set in Afghanistan. It tells the story of Amir, a young boy from Kabul, and his complicated relationship with his friend Hassan. The novel explores themes of guilt, betrayal, and the enduring power of friendship."
+  },
+  {
+    "name": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "summary": "The Adventures of Huckleberry Finn is an adventure novel that follows the journey of Huck Finn, a young boy who escapes his abusive father and embarks on a rafting adventure down the Mississippi River. The novel explores themes of racism, freedom, and the hypocrisy of society."
+  },
+  {
+    "name": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Epic Poetry",
+    "summary": "The Divine Comedy is an epic poem that follows the journey of the narrator, Dante, through Hell, Purgatory, and Paradise. It explores themes of sin, redemption, and the nature of the afterlife, presenting a vivid and allegorical portrayal of the medieval worldview."
+  },
+  {
+    "name": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Realist Fiction",
+    "summary": "Anna Karenina is a realist novel set in 19th-century Russia. The story revolves around the eponymous Anna Karenina, a married woman who enters into an affair with the dashing Count Vronsky. The novel explores themes of love, marriage, and the consequences of societal conventions."
+  },
+  {
+    "name": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "Science Fiction",
+    "summary": "Slaughterhouse-Five is a science fiction novel that follows the experiences of Billy Pilgrim, an American soldier during World War II. The narrative jumps back and forth in time, including his time as a prisoner of war and his experiences of being \"unstuck\" in time. The novel explores themes of war, free will, and the nature of human existence."
+  },
+  {
+    "name": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "genre": "Gothic Fiction",
+    "summary": "Wuthering Heights is a gothic novel that tells the story of the passionate and destructive love between Catherine Earnshaw and Heathcliff. Set in the wild and moody Yorkshire moors, the novel explores themes of love, revenge, and the effects of societal constraints."
+  },
+  {
+    "name": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Historical Fiction",
+    "summary": "The Grapes of Wrath is a historical fiction novel that depicts the struggles of the Joad family, tenant farmers displaced by the Dust Bowl, as they migrate to California in search of a better life. The novel explores themes of poverty, social injustice, and the resilience of the human spirit."
+  },
+  {
+    "name": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Historical Fiction",
+    "summary": "The Scarlet Letter is a historical fiction novel set in 17th-century Puritan New England. The story follows Hester Prynne, a woman who is forced to wear a scarlet letter 'A' as a symbol of her adultery. The novel explores themes of sin, guilt, and the hypocrisy of society."
+  },
+  {
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Satire",
+    "summary": "Don Quixote is a satirical novel that follows the adventures of a deluded knight, Don Quixote, and his loyal squire, Sancho Panza. The novel is known for its humorous and insightful commentary on chivalry, reality, and the power of imagination."
+  },
+  {
+    "name": "The Stranger",
+    "author": "Albert Camus",
+    "genre": "Existential Fiction",
+    "summary": "The Stranger is an existential novel that explores the absurdity and meaninglessness of human existence. The story follows Meursault, a detached and indifferent protagonist who becomes embroiled in a murder. The novel delves into themes of alienation, identity, and the indifference of the universe."
+  },
+  {
+    "name": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "summary": "The Iliad is an ancient Greek epic poem attributed to Homer. It chronicles the events of the Trojan War, focusing on the rage of Achilles, one of the war's central figures. The poem explores themes of honor, fate, and the destructive nature of war."
+  },
+  {
+    "name": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "genre": "Absurdist Fiction",
+    "summary": "The Metamorphosis is an absurdist novella that tells the story of Gregor Samsa, who wakes up one morning to find himself transformed into a giant insect. The novella explores themes of alienation, identity, and the absurdity of human existence."
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "The Hobbit is a fantasy adventure novel that follows the hobbit Bilbo Baggins as he joins a company of dwarves on a quest to reclaim their homeland from the fearsome dragon Smaug. It serves as a prelude to The Lord of the Rings and explores themes of bravery, heroism, and the power of the ordinary."
+  },
+  {
+    "name": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "summary": "Great Expectations is a coming-of-age novel that follows the life of Pip, an orphan who becomes a gentleman through the help of a mysterious benefactor. Set in 19th-century England, the novel explores themes of social class, ambition, and the pursuit of self-improvement."
+  },
+  {
+    "name": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Novella",
+    "summary": "The Old Man and the Sea is a novella that tells the story of an aging Cuban fisherman, Santiago, and his epic battle with a giant marlin. The novella explores themes of perseverance, honor, and the struggle against the forces of nature."
+  },
+  {
+    "name": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "genre": "Poetry",
+    "summary": "The Canterbury Tales is a collection of stories told by a group of pilgrims traveling to the shrine of Saint Thomas Becket in Canterbury. The tales, written in Middle English, offer a diverse and humorous portrayal of medieval society and explore themes of love, morality, and human nature."
+  },
+  {
+    "name": "The Call of the Wild",
+    "author": "Jack London",
+    "genre": "Adventure",
+    "summary": "The Call of the Wild is an adventure novel that follows the journey of Buck, a domesticated dog who is stolen and sold as a sled dog in the Klondike Gold Rush. The novel explores themes of survival, instinct, and the primal nature of animals."
+  },
+  {
+    "name": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction",
+    "summary": "Les Misérables is a historical fiction novel set in 19th-century France. The story follows the lives of several characters, including Jean Valjean, a former convict, and Javert, a relentless police inspector. The novel explores themes of justice, redemption, and the struggle for social equality."
+  },
+  {
+    "name": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "summary": "The Hound of the Baskervilles is a mystery novel featuring the detective Sherlock Holmes. Set in the moors of Devonshire, the story revolves around the curse of the Baskerville family and a demonic hound. The novel explores themes of superstition, reason, and the power of deduction."
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Coming-of-Age",
+    "summary": "To Kill a Mockingbird is a coming-of-age novel set in the racially charged atmosphere of the 1930s American South. The story is narrated by Scout Finch, a young girl, and explores themes of racial injustice, moral courage, and the loss of innocence."
+  },
+  {
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "summary": "Moby-Dick is an adventure novel that tells the story of Captain Ahab's obsessive quest to hunt down the white whale, Moby Dick. The novel explores themes of obsession, revenge, and the nature of evil, while also providing detailed insights into the whaling industry of the 19th century."
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "summary": "Pride and Prejudice is a romantic novel set in early 19th-century England. The story follows the spirited Elizabeth Bennet as she navigates the complexities of love, family, and societal expectations. The novel explores themes of class, marriage, and the power of first impressions."
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "summary": "1984 is a dystopian novel set in a totalitarian society ruled by the Party and its leader, Big Brother. The story follows Winston Smith, a low-ranking Party member, as he rebels against the oppressive regime. The novel explores themes of government surveillance, propaganda, and the erosion of individual freedoms."
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age",
+    "summary": "The Catcher in the Rye is a coming-of-age novel that follows the rebellious teenager Holden Caulfield over a few days in New York City. The novel explores themes of alienation, identity, and the loss of innocence in a post-World War II society."
+  },
+  {
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "summary": "War and Peace is a sprawling historical novel set during the Napoleonic era. It explores the lives of several Russian aristocratic families and their experiences during the French invasion of Russia. The novel delves into themes of war, love, fate, and the nature of historical events."
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Literary Fiction",
+    "summary": "The Great Gatsby is a literary fiction novel set in the Jazz Age of the 1920s. The story revolves around Jay Gatsby, a wealthy and mysterious man, and his pursuit of the elusive Daisy Buchanan. The novel explores themes of the American Dream, love, wealth, and the corruption of society."
+  },
+  {
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "summary": "The Lord of the Rings is a fantasy epic that follows the journey of Frodo Baggins, a hobbit tasked with destroying a powerful ring that could plunge the world into darkness. The novel explores themes of heroism, friendship, sacrifice, and the struggle between good and evil."
+  },
+  {
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "summary": "The Chronicles of Narnia is a series of fantasy novels that transport readers to the magical world of Narnia. The stories follow a group of children who stumble upon Narnia through a wardrobe and become involved in epic battles between good and evil. The series explores themes of faith, bravery, and the power of imagination."
+  },
+  {
+    "name": "Catch-22",
+    "author": "Joseph Heller",
+    "genre": "Satire",
+    "summary": "Catch-22 is a satirical novel set during World War II. It follows the experiences of Yossarian, a bombardier in the U.S. Army Air Forces, as he navigates the absurdities and contradictions of military bureaucracy. The novel explores themes of war, sanity, and the limitations of language."
+  },
+  {
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Allegorical Fiction",
+    "summary": "The Alchemist is an allegorical novel that tells the story of a young Andalusian shepherd named Santiago on his journey to find his personal legend. The novel explores themes of destiny, dreams, and the importance of following one's heart."
+  }
+]
