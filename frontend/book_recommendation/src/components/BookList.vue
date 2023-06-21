@@ -1,4 +1,5 @@
 <template>
+  <div>
     <n-data-table
       :bordered="false"
       :single-line="false"
@@ -6,13 +7,16 @@
       :data="data"
       :pagination="pagination"
     />
+    <BookDetails :active="modalActive" :book="bookRef" v-on:handle-hide-modal="handleHideModal" />
+  </div>
 </template>
 
 <script setup lang="ts">
 
-import { h } from 'vue'
-import { NTag, NButton, useMessage, NDataTable } from 'naive-ui'
+import { h, ref } from 'vue'
+import { NTag, NButton, NDataTable } from 'naive-ui'
 import type { DataTableColumns } from 'naive-ui'
+import BookDetails from "./BookDetails.vue"
 
 type RowData = {
   key: number
@@ -22,11 +26,20 @@ type RowData = {
   tags: string[]
 }
 
-const createColumns = ({
-  sendMail
-}: {
-  sendMail: (rowData: RowData) => void
-}): DataTableColumns<RowData> => {
+const modalActive = ref<boolean>(false);
+
+const handleHideModal = () => {
+  modalActive.value = false;
+}
+
+const bookRef = ref<RowData | null>(null);
+
+const createColumns = (
+  {
+  getDetails
+  }: {
+  getDetails: (rowData: RowData) => void
+  }): DataTableColumns<RowData> => {
   return [
     {
       title: 'Name',
@@ -70,9 +83,9 @@ const createColumns = ({
           NButton,
           {
             size: 'small',
-            onClick: () => sendMail(row)
+            onClick: () => getDetails(row)
           },
-          { default: () => 'Send Email' }
+          { default: () => 'Get Details' }
         )
       }
     }
@@ -102,13 +115,14 @@ const createData = (): RowData[] => [
     tags: ['cool', 'teacher']
   }
 ]
-const message = useMessage();
+// const message = useMessage();
 const data = createData();
 const columns = createColumns({
-        sendMail (rowData) {
-          message.info('send mail to ' + rowData.name)
-        }
-      })
+  getDetails (rowData) {
+      modalActive.value = true;
+      bookRef.value = rowData;
+    }
+  })
 const pagination = {
         pageSize: 10
       }
